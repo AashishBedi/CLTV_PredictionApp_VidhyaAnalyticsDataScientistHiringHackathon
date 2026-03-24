@@ -135,7 +135,3 @@ VahanBima_CLTV/
 - Platform: [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
